@@ -33,4 +33,4 @@ openapi --input http://0.0.0.0:8000/openapi.json --client axios -o craft_client
 ```
 
 to generate a fully typed client
-[Screenshot 2023-04-20 at 12.34.33 AM.png](./assets/vscode_autocomplete.png)
+![Screenshot 2023-04-20 at 12.34.33 AM.png](./assets/vscode_autocomplete.png)
